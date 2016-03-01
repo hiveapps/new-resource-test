@@ -1,1 +1,1 @@
-# new-resource-test
+# hello-world
